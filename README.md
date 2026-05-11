@@ -77,7 +77,9 @@ This Lite edition is the foundation. The **Pro Kit** turns it into a production-
 - ✨ ESLint (+ `eslint-plugin-playwright`) + Prettier + Husky pre-commit
 - 📚 Full docs + a setup video; commercial license for unlimited client/work projects
 
-👉 **Get the Pro Kit:** https://ajnalkarismail.gumroad.com/l/fqkbl
+👉 **Get the Pro Kit (JavaScript):** https://ajnalkarismail.gumroad.com/l/fqkbl
+👉 **Pro Kit (TypeScript):** https://ajnalkarismail.gumroad.com/l/ddinoh
+👉 **JS + TS bundle** — see the Gumroad store (cheaper than buying both)
 
 ---
 
